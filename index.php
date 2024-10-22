@@ -17,21 +17,21 @@
             <div style="padding: 0px 0px 8px 0px;">
               <ul class="collapsible popout">
                 <li>
-                  <div class="collapsible-header light-blue darken-4"><i class="material-icons">filter_drama</i>Certificado de Estudios</div>
+                  <div class="collapsible-header light-blue darken-4"><i class="material-icons">insert_drive_file</i>Certificado de Estudios</div>
                   <div class="collapsible-body"><span>El Certificado de Estudios es un documento oficial que emite la Dirección General de
                     Administración Escolar (DGAE), a través de la Facultad de Estudios Superiores Aragón, en el
                     que se muestra tu trayectoria académica (materias, calificaciones, periodos, etc.) al cursar
                     tus estudios de licenciatura.</span></div>
                 </li>
                 <li>
-                  <div class="collapsible-header light-blue darken-4"><i class="material-icons">place</i>Carta de liberación del Servicio Social</div>
+                  <div class="collapsible-header light-blue darken-4"><i class="material-icons">insert_drive_file</i>Carta de liberación del Servicio Social</div>
                   <div class="collapsible-body"><span>La carta de liberación del servicio social es una confirmación formal de
                     que has cumplido con las actividades que te han permitido poner en
                     práctica los conocimientos adquiridos en tu vida académica, en beneficio
                     de la sociedad mexicana.</span></div>
                 </li>
                 <li>
-                  <div class="collapsible-header light-blue darken-4"><i class="material-icons">whatshot</i>Constancia de Idioma</div>
+                  <div class="collapsible-header light-blue darken-4"><i class="material-icons">insert_drive_file</i>Constancia de Idioma</div>
                   <div class="collapsible-body"><span>Con el fin de adquirir competencias comunicativas, los Planes de Estudios de cada h
                     establecen los requerimientos específicos del curso o cursos de idioma que serán
                     requisito para la titulación.
@@ -40,7 +40,7 @@
                     UNAM donde se indique la modalidad: Comprensión de lectura o 4 habilidades.</span></div>
                 </li>
                 <li>
-                  <div class="collapsible-header light-blue darken-4"><i class="material-icons">whatshot</i>Actividad de Formación Complementaria</div>
+                  <div class="collapsible-header light-blue darken-4"><i class="material-icons">insert_drive_file</i>Actividad de Formación Complementaria</div>
                   <div class="collapsible-body"><span>La actividad de formación complementaria está orientada a promover que las y los estudiantes ... </span></div>
                 </li>
               </ul>
