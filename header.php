@@ -22,7 +22,7 @@
                 <img src="" width="87px"> Logo ICO
               </a>
               <ul id="nav-mobile" class="right hide-on-med-and-down">
-                <li><i class="material-icons">home</i><a href="index.php">Inicio</a></li>
+                <li><a href="index.php">Inicio</a></li>
                 <li><a href="https://www.dgae-siae.unam.mx/educacion/planes.php?acc=pde&crr=110&plt=0411&authuser=1">Página Oficial de Planes de Estudio</a></li>
                 <li><a href="http://aragon.dgae.unam.mx/info/tram_titulacion.html?authuser=1">Tramite de Titulación</a></li>
                 <li><a href="./registro.php">Registro de modalidad</a></li>
