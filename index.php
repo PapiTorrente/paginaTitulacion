@@ -13,7 +13,7 @@
         
         <div id="plan2119" class="col s12"> <!-- Primer Tarjeta prueba-->
           <div style="margin: 8px; background-color: #293e6b; width: 40%;">
-            <p style="font-size: 30px; margin: 8px; color: #fff;"><i class="material-icons">list</i>Requisitos</p>
+            <p style="font-size: 30px; margin: 8px; color: #fff;">Requisitos</p>
             <div style="padding: 0px 0px 8px 0px;">
               <ul class="collapsible popout">
                 <li>

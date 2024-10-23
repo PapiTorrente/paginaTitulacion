@@ -17,12 +17,12 @@
         <nav>
             <div class="nav-wrapper">
               <a href="https://www.aragon.unam.mx/fes-aragon/#!/inicio">
-                <img src="img/unam_logo.png" width="77px"> 
-                <img src="img/fesar_logo.png" width="87px"> 
-                <img src="" width="87px"> Logo ICO
+                <a href="http://unam.com.mx"><img src="img/unam_logo.png" width="77px"></a> 
+                <a href="https://www.aragon.unam.mx/fes-aragon/#!/inicio"><img src="img/fesar_logo.png" width="87px"></a> 
+                <a href="https://www.aragon.unam.mx/fes-aragon/#!/oferta-academica/licenciaturas/computacion"><img src="img/ico_logo.png" width="87px"></a>
               </a>
               <ul id="nav-mobile" class="right hide-on-med-and-down">
-                <li><a href="index.php">Inicio</a></li>
+                <li><a href="index.php"><i class="material-icons" style="font-size: 40px;">home</i></a></li>
                 <li><a href="https://www.dgae-siae.unam.mx/educacion/planes.php?acc=pde&crr=110&plt=0411&authuser=1">Página Oficial de Planes de Estudio</a></li>
                 <li><a href="http://aragon.dgae.unam.mx/info/tram_titulacion.html?authuser=1">Tramite de Titulación</a></li>
                 <li><a href="./registro.php">Registro de modalidad</a></li>
