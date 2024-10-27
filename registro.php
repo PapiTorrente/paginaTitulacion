@@ -5,7 +5,7 @@
 <div class="row">
 <div class="col s8">
     <header class="Titulo" >
-        <h3>Registro en mi DB</h3>
+        <h3>Registro de Modalidad</h3>
     </header>
 
     <div class="Formulario" >
@@ -81,14 +81,15 @@
                         </div>
                     </div>
 
-                <br><br>
+                <button class="btn waves-effect waves-light" type="submit" name="submit">Enviar
+                    <i class="material-icons right">send</i>
+                </button>
             </div>
-
-             <button type="submit" name="submit">Enviar registro</button>
         </form>
     </div>
-    <a href='Registro.php'>Nuevo registro</a>
-    <a href='index.php'>Ver registro</a>
+
+    <br>
+    <a class="waves-effect waves-light btn" href="verRegistros.php">Ver Registro</a>
 
   </div>
 </div>
