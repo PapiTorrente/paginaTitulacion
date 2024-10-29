@@ -1,0 +1,10 @@
+.requisitos {
+    font-size: 15px;
+    margin: 8px;
+    color: #fff;
+    text-decoration: none; /* Sin subrayado por defecto */
+}
+
+.requisitos:hover {
+    text-decoration: underline; /* Subraya al pasar el mouse */
+}

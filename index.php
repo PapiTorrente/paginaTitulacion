@@ -14,35 +14,32 @@
         <div id="plan2119" class="col s12"> <!-- Primer Tarjeta prueba-->
 
           <div style="margin: 8px; background-color: #293e6b; width: 40%;">
-            <p style="font-size: 30px; margin: 8px; color: #fff;">Requisitos</p>
+            <p style="font-size: 20px; margin: 8px; color: #fff;">Requisitos establecidos en el Plan de Estudios y en las Reglas de Operación</p>
+            <ul>
+              <li><a href="./pdf/certificado-de-estudios.pdf" class="requisitos">Certificado de estudios</a></li>
+              <li><a href="./pdf/carta-liberacion-servicio.pdf" class="requisitos">Carta de liberación del servicio social</a></li>
+              <li><a href="./pdf/constancia-de-idiomas.pdf" class="requisitos">Constancia de idioma</a></li>
+              <li><a href="./pdf/actividad-formacion-complementaria.pdf" class="requisitos">Actividad de formación complementaria</a></li>
+            </ul>
             <div style="padding: 0px 0px 8px 0px;">
               <ul class="collapsible popout">
+                <p style="font-size: 20px; margin: 8px; color: #fff;">Modalidad: Con trabajo escrito y réplica oral</p>
                 <li>
-                  <div class="collapsible-header light-blue darken-4"><i class="material-icons">insert_drive_file</i>Certificado de Estudios</div>
-                  <div class="collapsible-body"><span>El Certificado de Estudios es un documento oficial que emite la Dirección General de
-                    Administración Escolar (DGAE), a través de la Facultad de Estudios Superiores Aragón, en el
-                    que se muestra tu trayectoria académica (materias, calificaciones, periodos, etc.) al cursar
-                    tus estudios de licenciatura.</span></div>
+                  <div class="collapsible-header light-blue darken-4"><i class="material-icons">insert_drive_file</i>Titulación mediante tesis o tesina y examen profesional</div>
+                  <div class="collapsible-body"><span>----</span></div>
                 </li>
                 <li>
-                  <div class="collapsible-header light-blue darken-4"><i class="material-icons">insert_drive_file</i>Carta de liberación del Servicio Social</div>
-                  <div class="collapsible-body"><span>La carta de liberación del servicio social es una confirmación formal de
-                    que has cumplido con las actividades que te han permitido poner en
-                    práctica los conocimientos adquiridos en tu vida académica, en beneficio
-                    de la sociedad mexicana.</span></div>
+                  <div class="collapsible-header light-blue darken-4"><i class="material-icons">insert_drive_file</i>Titulación por actividad de investigación en su alternativa de tesis o tesina</div>
+                  <div class="collapsible-body"><span>----</span></div>
+                </li>
+                <p style="font-size: 20px; margin: 8px; color: #fff;">Modalidad: Con trabajo escrito, sin réplica oral</p>
+                <li>
+                  <div class="collapsible-header light-blue darken-4"><i class="material-icons">insert_drive_file</i>Titulación por actividad de apoyo a la docencia</div>
+                  <div class="collapsible-body"><span>----</span></div>
                 </li>
                 <li>
-                  <div class="collapsible-header light-blue darken-4"><i class="material-icons">insert_drive_file</i>Constancia de Idioma</div>
-                  <div class="collapsible-body"><span>Con el fin de adquirir competencias comunicativas, los Planes de Estudios de cada h
-                    establecen los requerimientos específicos del curso o cursos de idioma que serán
-                    requisito para la titulación.
-                    Para cumplir con este requisito, únicamente se tomarán en cuenta las constancias
-                    de acreditación de idioma emitidas por algún Centro de idiomas o lenguas de la
-                    UNAM donde se indique la modalidad: Comprensión de lectura o 4 habilidades.</span></div>
-                </li>
-                <li>
-                  <div class="collapsible-header light-blue darken-4"><i class="material-icons">insert_drive_file</i>Actividad de Formación Complementaria</div>
-                  <div class="collapsible-body"><span>La actividad de formación complementaria está orientada a promover que las y los estudiantes ... </span></div>
+                  <div class="collapsible-header light-blue darken-4"><i class="material-icons">insert_drive_file</i>Titulación por trabajo profesional</div>
+                  <div class="collapsible-body"><span>--- </span></div>
                 </li>
               </ul>
             </div>
@@ -53,35 +50,24 @@
         <div id="plan1279" class="col s12"> <!-- Segunda Tarjeta -->
 
         <div style="margin: 8px; background-color: #293e6b; width: 40%;">
-            <p style="font-size: 30px; margin: 8px; color: #fff;">Requisitos</p>
+          <p style="font-size: 30px; margin: 8px; color: #fff;">Requisitos</p>
             <div style="padding: 0px 0px 8px 0px;">
               <ul class="collapsible popout">
                 <li>
-                  <div class="collapsible-header light-blue darken-4"><i class="material-icons">insert_drive_file</i>Certificado de Estudios</div>
-                  <div class="collapsible-body"><span>El Certificado de Estudios es un documento oficial que emite la Dirección General de
-                    Administración Escolar (DGAE), a través de la Facultad de Estudios Superiores Aragón, en el
-                    que se muestra tu trayectoria académica (materias, calificaciones, periodos, etc.) al cursar
-                    tus estudios de licenciatura.</span></div>
+                  <div class="collapsible-header light-blue darken-4"><i class="material-icons">insert_drive_file</i></div>
+                  <div class="collapsible-body"><span></span></div>
                 </li>
                 <li>
-                  <div class="collapsible-header light-blue darken-4"><i class="material-icons">insert_drive_file</i>Carta de liberación del Servicio Social</div>
-                  <div class="collapsible-body"><span>La carta de liberación del servicio social es una confirmación formal de
-                    que has cumplido con las actividades que te han permitido poner en
-                    práctica los conocimientos adquiridos en tu vida académica, en beneficio
-                    de la sociedad mexicana.</span></div>
+                  <div class="collapsible-header light-blue darken-4"><i class="material-icons">insert_drive_file</i></div>
+                  <div class="collapsible-body"><span>.</span></div>
                 </li>
                 <li>
-                  <div class="collapsible-header light-blue darken-4"><i class="material-icons">insert_drive_file</i>Constancia de Idioma</div>
-                  <div class="collapsible-body"><span>Con el fin de adquirir competencias comunicativas, los Planes de Estudios de cada h
-                    establecen los requerimientos específicos del curso o cursos de idioma que serán
-                    requisito para la titulación.
-                    Para cumplir con este requisito, únicamente se tomarán en cuenta las constancias
-                    de acreditación de idioma emitidas por algún Centro de idiomas o lenguas de la
-                    UNAM donde se indique la modalidad: Comprensión de lectura o 4 habilidades.</span></div>
+                  <div class="collapsible-header light-blue darken-4"><i class="material-icons">insert_drive_file</i></div>
+                  <div class="collapsible-body"><span></span></div>
                 </li>
                 <li>
-                  <div class="collapsible-header light-blue darken-4"><i class="material-icons">insert_drive_file</i>Actividad de Formación Complementaria</div>
-                  <div class="collapsible-body"><span>La actividad de formación complementaria está orientada a promover que las y los estudiantes ... </span></div>
+                  <div class="collapsible-header light-blue darken-4"><i class="material-icons">insert_drive_file</i></div>
+                  <div class="collapsible-body"><span> </span></div>
                 </li>
               </ul>
             </div>
@@ -96,31 +82,20 @@
             <div style="padding: 0px 0px 8px 0px;">
               <ul class="collapsible popout">
                 <li>
-                  <div class="collapsible-header light-blue darken-4"><i class="material-icons">insert_drive_file</i>Certificado de Estudios</div>
-                  <div class="collapsible-body"><span>El Certificado de Estudios es un documento oficial que emite la Dirección General de
-                    Administración Escolar (DGAE), a través de la Facultad de Estudios Superiores Aragón, en el
-                    que se muestra tu trayectoria académica (materias, calificaciones, periodos, etc.) al cursar
-                    tus estudios de licenciatura.</span></div>
+                  <div class="collapsible-header light-blue darken-4"><i class="material-icons">insert_drive_file</i></div>
+                  <div class="collapsible-body"><span></span></div>
                 </li>
                 <li>
-                  <div class="collapsible-header light-blue darken-4"><i class="material-icons">insert_drive_file</i>Carta de liberación del Servicio Social</div>
-                  <div class="collapsible-body"><span>La carta de liberación del servicio social es una confirmación formal de
-                    que has cumplido con las actividades que te han permitido poner en
-                    práctica los conocimientos adquiridos en tu vida académica, en beneficio
-                    de la sociedad mexicana.</span></div>
+                  <div class="collapsible-header light-blue darken-4"><i class="material-icons">insert_drive_file</i></div>
+                  <div class="collapsible-body"><span></span></div>
                 </li>
                 <li>
-                  <div class="collapsible-header light-blue darken-4"><i class="material-icons">insert_drive_file</i>Constancia de Idioma</div>
-                  <div class="collapsible-body"><span>Con el fin de adquirir competencias comunicativas, los Planes de Estudios de cada h
-                    establecen los requerimientos específicos del curso o cursos de idioma que serán
-                    requisito para la titulación.
-                    Para cumplir con este requisito, únicamente se tomarán en cuenta las constancias
-                    de acreditación de idioma emitidas por algún Centro de idiomas o lenguas de la
-                    UNAM donde se indique la modalidad: Comprensión de lectura o 4 habilidades.</span></div>
+                  <div class="collapsible-header light-blue darken-4"><i class="material-icons">insert_drive_file</i></div>
+                  <div class="collapsible-body"><span></span></div>
                 </li>
                 <li>
-                  <div class="collapsible-header light-blue darken-4"><i class="material-icons">insert_drive_file</i>Actividad de Formación Complementaria</div>
-                  <div class="collapsible-body"><span>La actividad de formación complementaria está orientada a promover que las y los estudiantes ... </span></div>
+                  <div class="collapsible-header light-blue darken-4"><i class="material-icons">insert_drive_file</i></div>
+                  <div class="collapsible-body"><span> </span></div>
                 </li>
               </ul>
             </div>
@@ -135,31 +110,20 @@
             <div style="padding: 0px 0px 8px 0px;">
               <ul class="collapsible popout">
                 <li>
-                  <div class="collapsible-header light-blue darken-4"><i class="material-icons">insert_drive_file</i>Certificado de Estudios</div>
-                  <div class="collapsible-body"><span>El Certificado de Estudios es un documento oficial que emite la Dirección General de
-                    Administración Escolar (DGAE), a través de la Facultad de Estudios Superiores Aragón, en el
-                    que se muestra tu trayectoria académica (materias, calificaciones, periodos, etc.) al cursar
-                    tus estudios de licenciatura.</span></div>
+                  <div class="collapsible-header light-blue darken-4"><i class="material-icons">insert_drive_file</i></div>
+                  <div class="collapsible-body"><span></span></div>
                 </li>
                 <li>
-                  <div class="collapsible-header light-blue darken-4"><i class="material-icons">insert_drive_file</i>Carta de liberación del Servicio Social</div>
-                  <div class="collapsible-body"><span>La carta de liberación del servicio social es una confirmación formal de
-                    que has cumplido con las actividades que te han permitido poner en
-                    práctica los conocimientos adquiridos en tu vida académica, en beneficio
-                    de la sociedad mexicana.</span></div>
+                  <div class="collapsible-header light-blue darken-4"><i class="material-icons">insert_drive_file</i></div>
+                  <div class="collapsible-body"><span></span></div>
                 </li>
                 <li>
-                  <div class="collapsible-header light-blue darken-4"><i class="material-icons">insert_drive_file</i>Constancia de Idioma</div>
-                  <div class="collapsible-body"><span>Con el fin de adquirir competencias comunicativas, los Planes de Estudios de cada h
-                    establecen los requerimientos específicos del curso o cursos de idioma que serán
-                    requisito para la titulación.
-                    Para cumplir con este requisito, únicamente se tomarán en cuenta las constancias
-                    de acreditación de idioma emitidas por algún Centro de idiomas o lenguas de la
-                    UNAM donde se indique la modalidad: Comprensión de lectura o 4 habilidades.</span></div>
+                  <div class="collapsible-header light-blue darken-4"><i class="material-icons">insert_drive_file</i></div>
+                  <div class="collapsible-body"><span></span></div>
                 </li>
                 <li>
-                  <div class="collapsible-header light-blue darken-4"><i class="material-icons">insert_drive_file</i>Actividad de Formación Complementaria</div>
-                  <div class="collapsible-body"><span>La actividad de formación complementaria está orientada a promover que las y los estudiantes ... </span></div>
+                  <div class="collapsible-header light-blue darken-4"><i class="material-icons">insert_drive_file</i></div>
+                  <div class="collapsible-body"><span> </span></div>
                 </li>
               </ul>
             </div>
