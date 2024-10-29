@@ -1,3 +1,4 @@
+/* para los requisitos de titulacion */
 .requisitos {
     font-size: 15px;
     margin: 8px;
@@ -8,3 +9,22 @@
 .requisitos:hover {
     text-decoration: underline; /* Subraya al pasar el mouse */
 }
+
+/*agregar marcadares a la ul que tiene los requisitos */
+.custom-list {
+    list-style-type: none; /* quitar estilo predeterminado */
+    padding-left: 0;
+  }
+  
+  .custom-list li {
+    position: relative; /* the element is positioned according to the normal flow of the document, */
+    padding-left: 10px; /* Ajusta el espacio para el marcador */
+  }
+  
+  .custom-list li::before {
+    content: "•"; 
+    position: relative; 
+    left: 0;
+    color: #fefefe; 
+    font-size: 1.4em; 
+  }
