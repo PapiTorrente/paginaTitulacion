@@ -36,9 +36,26 @@
                     <div class="row">
                         <div class="input-field col s6">
                             <i class="material-icons prefix">class</i>
-                            <input type="text" id="carrera" class="validate" required maxlength="100" pattern="[a-zA-Z ]+">
-                            <label for="carrera">Carrera</label>
-                            <span class="helper-text" data-error="solo letras"></span>
+                            <select>
+                            <option value="" disabled selected>Carrera</option>
+                            <optgroup label="Ciencias Físico-MAtematicas y de las ingenierías">
+                            <option value="Ingenieria Civil">Ingeniería Civil</option>
+                            <option value="Ingenieria en Computacion">Ingeniería en Computación</option>
+                            <option value="Ingenieria Electrica Electronica">Ingeniería Eléctrica Electronica</option>
+                            <option value="Ingenieria Industrial">Ingeniería Industrial</option>
+                            <option value="Ingenieria Mecanica">Ingeniería Mecanica</option>
+                            <optgroup label="Ciencias Sociales">
+                            <option value="Comunicacion y periodismo">Comunicación y Periodismo</option>
+                            <option value="Derecho">Derecho</option>
+                            <option value="Economia">Economía</option>
+                            <option value="Planificacion para el Desarrollo">Planificacion para el Desarrollo</option>
+                            <option value="Relaciones Internacionales">Relaciones Internacionales</option>>
+                            <option value="Sociologia">Sociología</option>
+                            <optgroup label="Humanidades y Artes">
+                            <option value="Arquitectura">Arquitectura</option>
+                            <option value="Diseño Industrial">Diseño Industrial</option>
+                            <option value="Pedagogia">Pedagogía</option>
+                            <select>
                         </div>
 
                         <div class="input-field col s6">
