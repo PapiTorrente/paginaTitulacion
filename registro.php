@@ -1,5 +1,5 @@
 <?php
-  include ("./header.php");
+  include ("./header.html");
 ?>
 
 <div class="row">
@@ -111,5 +111,5 @@
   </div>
 </div>
 <?php
-  include ("./footer.php");
+  include ("./footer.html");
 ?>
