@@ -1,6 +1,7 @@
 <?php
   include ("./header.html");
 ?>
+<title>Registro de Modalidad | ICO</title>
 
 <div class="row">
 <div class="col s8">
@@ -38,23 +39,23 @@
                             <i class="material-icons prefix">class</i>
                             <select>
                             <option value="" disabled selected>Carrera</option>
-                            <optgroup label="Ciencias Físico-MAtematicas y de las ingenierías">
+                            <optgroup label="Ciencias Físico-Matemáticas y de las Ingenierías">
                             <option value="Ingenieria Civil">Ingeniería Civil</option>
-                            <option value="Ingenieria en Computacion">Ingeniería en Computación</option>
-                            <option value="Ingenieria Electrica Electronica">Ingeniería Eléctrica Electronica</option>
+                            <option value="Ingenieria en Computación">Ingeniería en Computación</option>
+                            <option value="Ingenieria Electrica Electrónica">Ingeniería Eléctrica Electronica</option>
                             <option value="Ingenieria Industrial">Ingeniería Industrial</option>
-                            <option value="Ingenieria Mecanica">Ingeniería Mecanica</option>
+                            <option value="Ingenieria Mecánica">Ingeniería Mecanica</option>
                             <optgroup label="Ciencias Sociales">
-                            <option value="Comunicacion y periodismo">Comunicación y Periodismo</option>
+                            <option value="Comunicación y Periodismo">Comunicación y Periodismo</option>
                             <option value="Derecho">Derecho</option>
-                            <option value="Economia">Economía</option>
-                            <option value="Planificacion para el Desarrollo">Planificacion para el Desarrollo</option>
+                            <option value="Economía">Economía</option>
+                            <option value="Planificación para el Desarrollo">Planificacion para el Desarrollo</option>
                             <option value="Relaciones Internacionales">Relaciones Internacionales</option>>
-                            <option value="Sociologia">Sociología</option>
+                            <option value="Sociología">Sociología</option>
                             <optgroup label="Humanidades y Artes">
                             <option value="Arquitectura">Arquitectura</option>
                             <option value="Diseño Industrial">Diseño Industrial</option>
-                            <option value="Pedagogia">Pedagogía</option>
+                            <option value="Pedagogía">Pedagogía</option>
                             <select>
                         </div>
 
@@ -110,6 +111,7 @@
 
   </div>
 </div>
+
 <?php
   include ("./footer.html");
 ?>

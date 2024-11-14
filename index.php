@@ -1,6 +1,8 @@
 <?php
 include("./header.html");
 ?>
+<title>Página de Titulación | ICO</title>
+
 <div class="row">
   <div class="col s12">
     <ul class="tabs">
