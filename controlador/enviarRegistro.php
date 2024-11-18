@@ -2,31 +2,29 @@
 include "./conexion.php";
 mysqli_set_charset($conexion,'utf8');
 
-$buscarusuario="SELECT * FROM  persona WHERE nombre_usuario ='$_POST[nombre_usuario]'";
+$buscarusuario="SELECT * FROM persona WHERE no_cuenta ='$_POST[no_cuenta]'";
 
 $resultado = $conexion -> query($buscarusuario);
-$count =mysqli_num_rows($resultado);
+$count=mysqli_num_rows($resultado);
 if($count==1){
     echo"El usuario ya esta registrado";
-    echo "<a href='./Registro.php'>Nuevo registro</a>";
-
+    echo "<a href='../registro.php'>Nuevo registro</a>";
 }else{
-
     mysqli_query($conexion,"INSERT INTO persona(
-        nombre_usuario,carrera,no_cuenta,direccion,telefono,email,password)
+        nombre,ap_paterno,ap_materno,carrera,no_cuenta,email,telefono,direccion,password)
         VALUES(
-            '$_POST[nombre_usuario]',
+            '$_POST[nombre]',
+            '$_POST[ap_paterno]',
+            '$_POST[ap_materno]',
             '$_POST[carrera]',
             '$_POST[no_cuenta]',
-            '$_POST[direccion]',
-            '$_POST[telefono]',
             '$_POST[email]',
+            '$_POST[telefono]',
+            '$_POST[direccion]',
             '$_POST[password]'
         )");
         echo "<br> <h1>Usuario creado con exito</h1>";
-        echo "<a href='./Registro.php'>Puedes generar un Nuevo registro</a>";
-        echo "<a href='./index.php.php'>Ver registros</a>";
+        echo "<a href='../registro.php'>Puedes generar un Nuevo registro</a>";
+        echo "<br> <a href='./verRegistro.php'>Ver registros</a>";
 }
- 
-
 ?>
