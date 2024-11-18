@@ -107,7 +107,7 @@
     </div>
 
     <br>
-    <a class="waves-effect waves-light btn" href="controlador/verRegistros.php">Ver Registro</a>
+    <a class="waves-effect waves-light btn" href="controlador/verRegistro.php">Ver Registro</a>
 
   </div>
 </div>
