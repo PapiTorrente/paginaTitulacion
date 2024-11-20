@@ -10,7 +10,7 @@
     text-decoration: underline; /* Subraya al pasar el mouse */
 }
 
-/*agregar marcadares a la ul que tiene los requisitos */
+/*agregar marcadores a la ul que tiene los requisitos */
 .custom-list {
     list-style-type: none; /* quitar estilo predeterminado */
     padding-left: 0;
